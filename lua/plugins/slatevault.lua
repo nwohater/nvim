@@ -1,5 +1,5 @@
 return {
-  dir = "~/Documents/Source/slatevault.nvim",
+  "nwohater/slateVault.nvim",
   dependencies = { "nvim-telescope/telescope.nvim" },
   opts = {
     search_paths = { "~/Documents/Source" },
